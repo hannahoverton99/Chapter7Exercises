@@ -1,0 +1,14 @@
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\bin\Debug\net8.0\Chapter7Exercises.exe
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\bin\Debug\net8.0\Chapter7Exercises.deps.json
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\bin\Debug\net8.0\Chapter7Exercises.runtimeconfig.json
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\bin\Debug\net8.0\Chapter7Exercises.dll
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\bin\Debug\net8.0\Chapter7Exercises.pdb
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\obj\Debug\net8.0\Chapter7Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\obj\Debug\net8.0\Chapter7Exercises.AssemblyInfoInputs.cache
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\obj\Debug\net8.0\Chapter7Exercises.AssemblyInfo.cs
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\obj\Debug\net8.0\Chapter7Exercises.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\obj\Debug\net8.0\Chapter7Exercises.dll
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\obj\Debug\net8.0\refint\Chapter7Exercises.dll
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\obj\Debug\net8.0\Chapter7Exercises.pdb
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\obj\Debug\net8.0\Chapter7Exercises.genruntimeconfig.cache
+C:\Users\hanna\Documents\LaunchCode\Unit-2\Exercises\Chapter7Exercises\Chapter7Exercises\obj\Debug\net8.0\ref\Chapter7Exercises.dll
